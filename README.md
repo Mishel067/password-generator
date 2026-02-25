@@ -22,7 +22,6 @@ A secure and customizable password generator made in Python.
 
 ```bash
    python password_generator.py
-'''
 4. Follow the prompts to generate passwords!
 
 > Made by Misha
