@@ -20,8 +20,8 @@ A secure and customizable password generator made in Python.
 2. Open terminal or Colab
 3. Run:
 
-```bash
-   python password_generator.py
+   `python password_generator.py`
+   
 4. Follow the prompts to generate passwords!
 
 > Made by Misha
